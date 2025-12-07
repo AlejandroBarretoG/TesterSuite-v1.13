@@ -1,0 +1,8 @@
+{
+  "name": "TesterSuite v1.13",
+  "description": "TesterSuite es una aplicación modular construida con React y TypeScript diseñada para acelerar la integración y diagnóstico de servicios Cloud (Firebase) e Inteligencia Artificial (Google Gemini).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
